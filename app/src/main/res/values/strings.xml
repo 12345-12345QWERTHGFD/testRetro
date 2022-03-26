@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testRetro</string>
+    <string name="math_id">Math id</string>
+    <string name="find">Find</string>
+</resources>
